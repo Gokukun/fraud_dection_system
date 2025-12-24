@@ -1,6 +1,7 @@
-sklearn
+scikit-learn
 pandas
 numpy 
 pickle
 xgboost
 matplotlib.pyplot
+
